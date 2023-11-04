@@ -10,7 +10,9 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jjwon000)](https://solved.ac/jjwon000)
 
-
+## 진행중인 프로젝트
+- 주식손익 excel 파일 보유종목 현재가 자동 업데이트 [python/visual studio code] (2023.08 ~ )
+- 앱 개발 (2023.09 ~ )
 
 [![MisterJerry123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterJerry123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
