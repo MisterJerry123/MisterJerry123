@@ -1,11 +1,13 @@
 # Introduction
 페이지 업데이트중입니다 ㅎㅎ
 
-## Language
+
+## Languages
 <!--<img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>-->
-<img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/C-black?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/Python-black?style=flat&logo=Python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Kotlin-black?style=flat&logo=Kotlin&logoColor=7F52FF"/>
 
-
+## Tools
+<img src="https://img.shields.io/badge/Visual Studio-black?style=flat&logo=C&logoColor=5C2D91"/> <img src="https://img.shields.io/badge/Visual Studio Code-black?style=flat&logo=Visual Studio Code&logoColor=007ACC"/> <img src="https://img.shields.io/badge/Android Studio-black?style=flat&logo=Android Studio&logoColor=3DDC84"/> 
 
 ## more details
 [![Solved.ac
