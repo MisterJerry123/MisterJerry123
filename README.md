@@ -18,7 +18,8 @@
 
 ## 진행중인 프로젝트
 - 주식손익 excel 파일 보유종목 현재가 자동 업데이트 [Python / Visual Studio code] (2023.08 ~ )
-- 창의학기제; 세종대학교 중고책 거래 platform "세종끼리" 앱 개발 [Kotlin / Android Studio] (2024.03 ~ )
+- 창의학기제; 세종대학교 중고책 거래 platform "세종끼리" 앱 개발 [Kotlin / Android Studio] (2024.02 ~ )
+- 동아리 프로젝트; 프론트엔드 개발[Kotlin / Android Studio] (2024.03.28 ~)
 
 [![MisterJerry123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterJerry123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
