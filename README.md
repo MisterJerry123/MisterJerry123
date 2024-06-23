@@ -15,12 +15,13 @@
 
 ## 완료한 프로젝트
 - 초보자를 위한 헬스 도우미 "HealthMe" 앱 개발 [Kotlin / Android Studio] (2023.09 ~ 2024.02)
+- 캡스톤 디자인; 청각장애인들을 위한 LipReading을 통한 자막 생성기 "Reading Lips" 안드로이드 앱 개발 [Kotlin / Android Studio] (2024.03 ~ 2024.06.07)
 
 ## 진행중인 프로젝트
 - 주식손익 excel 파일 보유종목 현재가 자동 업데이트 [Python / Visual Studio code] (2023.08 ~ 잠정중단)
 - 창의학기제; 세종대학교 중고책 거래 platform "세종끼리" 안드로이드 앱 개발 [Kotlin / Android Studio] (2024.02 ~ )
 - 동아리 프로젝트; 타일러 노트 프론트엔드 개발 [Kotlin / Android Studio] (2024.03.28 ~ )
-- 캡스톤 디자인; 청각장애인들을 위한 LipReading을 통한 자막 생성기 "Reading Lips" 안드로이드 앱 개발 [Kotlin / Android Studio] (2024.03 ~ )
+
 
 [![MisterJerry123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterJerry123)](https://github.com/anuraghazra/github-readme-stats)
 <!--
