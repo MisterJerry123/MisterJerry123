@@ -1,0 +1,66 @@
+
+<!-- 
+# Introduction
+페이지 업데이트중입니다 ㅎㅎ
+
+-->
+
+
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+
+
+
+</div>
+
+
+<h3 align="center">🛠 Tools 🛠</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    <br>
+
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+
+</div>
+
+<h3 align="center">💻 Projects 💻</h3>
+<div align="left">
+    <p>&emsp;&emsp;- 초보자를 위한 헬스 도우미 "HealthMe" 안드로이드 앱 개발 Frontend (2023.09 ~ 2024.02)</p>
+        <p>&emsp;&emsp;- 청각장애인들을 위한 LipReading을 통한 자막 생성기 "Reading Lips" 안드로이드 앱 개발 (2024.03 ~ 06)</p>
+        <p>&emsp;&emsp;- 세종대학교 중고책 거래 platform "세종끼리" 안드로이드 앱 개발 (2024.02 ~ 06)</p>
+        <p>&emsp;&emsp;- 대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 (2024.12.26 ~ 27) </p>
+
+    
+   
+
+<img src="https://github.com/{github username}/{github username}/blob/output/github-contribution-grid-snake.svg"/>
+<!-- 
+## more details
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=jjwon000)](https://solved.ac/jjwon000)
+
+
+-->
+
+<!-- 
+## 완료한 프로젝트
+
+
+## 진행중인 프로젝트
+
+-->
+
+
+<!-- 
+
+[![MisterJerry123's GitHub stats](https://github-readme-stats.vercel.app/api?username=MisterJerry123)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+
