@@ -39,7 +39,12 @@
         <p>&emsp;&emsp;- 대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 (2024.12.26 ~ 27) </p>
 
     
-   
+   ---
+<p align="center">
+Project들 하이퍼링크 및 각 Project readme 작업중!
+</p>
+
+   ---
 
 <img src="https://github.com/MisterJerry123/MisterJerry123/blob/output/github-contribution-grid-snake.svg"/>
 <!-- 
