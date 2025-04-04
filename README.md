@@ -39,7 +39,7 @@
     
    
 
-<img src="https://github.com/{github username}/{github username}/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/MisterJerry123/MisterJerry123/blob/output/github-contribution-grid-snake.svg"/>
 <!-- 
 ## more details
 [![Solved.ac
