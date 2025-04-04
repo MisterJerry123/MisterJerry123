@@ -34,9 +34,15 @@
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeFrontend" target="_blank">초보자를 위한 헬스 도우미 "HealthMe" 안드로이드 앱 개발 Frontend (2023.09 ~ 2024.02)</a>
 </p>
-        <p>&emsp;&emsp;- 청각장애인들을 위한 LipReading을 통한 자막 생성기 "Reading Lips" 안드로이드 앱 개발 (2024.03 ~ 06)</p>
-        <p>&emsp;&emsp;- 세종대학교 중고책 거래 platform "세종끼리" 안드로이드 앱 개발 (2024.02 ~ 06)</p>
-        <p>&emsp;&emsp;- 대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 (2024.12.26 ~ 27) </p>
+<p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/ReadingLips" target="_blank">청각장애인들을 위한 LipReading을 통한 자막 생성기 "Reading Lips" 안드로이드 앱 개발 (2024.03 ~ 06)</a>
+</p>
+<p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/withSejong" target="_blank">세종대학교 중고책 거래 platform "세종끼리" 안드로이드 앱 개발 (2024.02 ~ 06)</a>
+</p>
+<p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/noteBuddy" target="_blank">대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 (2024.12.26 ~ 27)</a>
+</p>
 
     
    ---
