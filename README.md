@@ -29,6 +29,16 @@
 
 </div>
 
+<h3 align="center">♾️ Interested ♾️</h3>
+<div align="center">
+    <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+    <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br>
+
+</div>
+
+
 <h3 align="center">💻 Projects 💻</h3>
 <div align="left">
 <p>
@@ -44,7 +54,6 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/noteBuddy" target="_blank">대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 Frontend (2024.12.26 ~ 27)</a>
 </p>
 
-    
    ---
 <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
