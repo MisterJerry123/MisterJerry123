@@ -54,7 +54,7 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/noteBuddy" target="_blank">대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" 안드로이드 앱 개발 Frontend (2024.12.26 ~ 27)</a>
 </p>
 <p>
-    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MemoUsingRoomdb" target="_blank">배웠던 것을 총 망라하여 나만의 메모 앱 개발  (2025.09.09 ~ ing)</a>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">배웠던 것을 총 망라하여 나만의 메모 앱 개발 Frontend (2025.09.09 ~ ing)</a>
 </p>
 
    ---
