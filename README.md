@@ -57,6 +57,10 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 앱 개발 Frontend (2025.09.09 ~ ing)</a>
 </p>
 
+<p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 컴포저블UI 연습 (2025.10.05 ~ ing)</a>
+</p>
+
    ---
 <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
