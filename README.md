@@ -57,6 +57,9 @@
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 Android Client 개발 (2025.09.09 ~ ing)</a>
 </p>
+    <p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/sesac_hackathon" target="_blank">새싹 해커톤 Android Client 개발(예정) (2025.11.18 ~ ing)</a>
+</p>
 <!--
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 컴포저블UI 연습 (2025.10.05 ~ ing)</a>
