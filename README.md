@@ -40,7 +40,7 @@
 </div>
 
 
-<h3 align="center">💻 Projects 💻</h3>
+<h3 align="center">💻 Projects and Awards 💻</h3>
 <div align="left">
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeFrontend" target="_blank">초보자를 위한 헬스 도우미 "HealthMe" Android Client 개발 (2023.09 ~ 2024.02)</a>
