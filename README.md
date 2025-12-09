@@ -60,11 +60,9 @@
     <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/sori-android" target="_blank">청각 장애인을 위한 실시간 대화 및 환경 소리 비서 어플 "소리비서 : Sori" Android Client 개발 (2025.11.18 ~ 2025.12.02)</a>
 </p>
-<!--
 <p>
-    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 컴포저블UI 연습 (2025.10.05 ~ ing)</a>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
 </p>
--->
   
 <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
