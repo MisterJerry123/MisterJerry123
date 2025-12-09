@@ -50,15 +50,26 @@
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/withSejong" target="_blank">세종대학교 중고책 거래 platform "세종끼리" Android Client 개발 (2024.02 ~ 12)</a>
+
+&emsp;&emsp;&emsp;┖ 2024년 소프트웨어융합대학 학술제 <세종대학교의 발전을 위한 다양한 기술 아이디어 기획 및 구현> 구현트랙 장려상 수상
+
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/noteBuddy" target="_blank">대학생활이 더 쉬워지는 AI기반 학습 파트너 "노트버디" Android Client 개발 (2024.12.26 ~ 27)</a>
+
+&emsp;&emsp;&emsp;┖ 2024년 세종대학교 제 11회 SW·AI 해커톤 은상 수상
+
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 Android Client 개발 (2025.09.09 ~ ing)</a>
+
+&emsp;&emsp;&emsp;┖ 구글 플레이스토어 출시: https://play.google.com/store/apps/details?id=com.misterjerry.simplememo
 </p>
     <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/sori-android" target="_blank">청각 장애인을 위한 실시간 대화 및 환경 소리 비서 어플 "소리비서 : Sori" Android Client 개발 (2025.11.18 ~ 2025.12.02)</a>
+   
+&emsp;&emsp;&emsp;┖ 2025 새싹 해커톤 오프라인 본선 진출
+
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
