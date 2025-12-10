@@ -61,7 +61,7 @@
 
 </p>
 <p>
-    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 Android Client 개발 (2025.09.09 ~ 2025.11.28)</a>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 어플 Android Client 개발 (2025.09.09 ~ 2025.11.28)</a>
 
 &emsp;&emsp;&emsp;┖ 구글 플레이스토어 출시: https://play.google.com/store/apps/details?id=com.misterjerry.simplememo
 </p>
@@ -73,6 +73,12 @@
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
+</p>
+<p>
+    &emsp;&emsp;- 그동안 배운 Composable UI를 활용하여 만들어보는 두산베어스 팬들을 위한 팀 응원가 모닝 알람 어플 (개인프로젝트/진행예정)
+   
+&emsp;&emsp;&emsp;┖ (구단에 저작권 관련 문의 후 가능한 경우 진행)
+
 </p>
   
 <!-- <p align="center">
