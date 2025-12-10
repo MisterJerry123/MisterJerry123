@@ -68,7 +68,7 @@
     <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/sori-android" target="_blank">청각 장애인을 위한 실시간 대화 및 환경 소리 비서 어플 "소리비서 : Sori" Android Client 개발 (2025.11.18 ~ 2025.12.02)</a>
    
-&emsp;&emsp;&emsp;┖ 2025 새싹 해커톤 오프라인 본선 진출
+&emsp;&emsp;&emsp;┖ 2025 새싹 해커톤 오프라인 본선 진출 (예선에 참가한 182개 팀 중 7위로 본선 진출)
 
 </p>
 <p>
