@@ -61,7 +61,7 @@
 
 </p>
 <p>
-    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 Android Client 개발 (2025.09.09 ~ ing)</a>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/MySimpleMemoApp" target="_blank">이제껏 배운 것들을 총망라하여 만들어보는 간단한 메모 Android Client 개발 (2025.09.09 ~ 2025.11.28)</a>
 
 &emsp;&emsp;&emsp;┖ 구글 플레이스토어 출시: https://play.google.com/store/apps/details?id=com.misterjerry.simplememo
 </p>
@@ -75,9 +75,9 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMeConvertToComposableCode" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
 </p>
   
-<p align="center">
+<!-- <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
-</p>
+</p> -->
 
  
 <img src="https://github.com/MisterJerry123/MisterJerry123/blob/output/github-contribution-grid-snake.svg"/>
