@@ -7,19 +7,30 @@
 
 
 
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">✨ Tech Stack & Tools ✨</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+ <div align="center">
+    <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
+    <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white">
 
+<br>
+              
+  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
+
+</div> 
 
 
 </div>
 
 
-<h3 align="center">🛠 Tools 🛠</h3>
-<div align="center">
+<!-- <h3 align="center">🛠 Tools 🛠</h3> -->
+<!-- <div align="center">
     <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
     <br>
@@ -28,16 +39,16 @@
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 
-</div>
+</div> -->
 
-<h3 align="center">♾️ Interested ♾️</h3>
+<!-- <h3 align="center">♾️ Interested ♾️</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <br>
 
-</div>
+</div> -->
 
 
 <h3 align="center">💻 Projects and Awards 💻</h3>
