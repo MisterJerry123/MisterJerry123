@@ -85,9 +85,9 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMe-Android-Compose" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
 </p>
 <p>
-    &emsp;&emsp;- 그동안 배운 Composable UI를 활용한 두산베어스 팬들을 위한 팀 응원가 모닝 알람 어플 "허슬두 알람"(가칭) Android Client 개발
+    &emsp;&emsp;- 그동안 배운 Composable UI를 활용한 두산베어스 팬들을 위한 알람 어플 "허슬두 알람"(가칭) (2025.12.26 ~ ing) Android Client 개발
    
-&emsp;&emsp;&emsp;┖ (구단에 저작권 관련 문의 후 가능한 경우 진행)
+&emsp;&emsp;&emsp;┖ (아직 구단에 저작권 문의는 안했는데 일단 진행)
 
 </p>
   
