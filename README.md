@@ -85,7 +85,7 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HealthMe-Android-Compose" target="_blank">기존 HealthMe코드 활용하여 Jetpack Compose UI 연습 (2025.12.07 ~ ing)</a>
 </p>
 <p>
-    &emsp;&emsp;- 두산베어스 팬들을 위한 알람 어플 "HustleDooAlarm" Android Client 개발 (2025.12.26 ~ ing)
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HustleDooAlarm" target="_blank">두산베어스 팬들을 위한 알람 어플 "HustleDooAlarm" Android Client 개발 (2025.12.26 ~ ing)</a>
     
 &emsp;&emsp;&emsp;┖ 2025/12/27 비공개 테스트 시작, 2026/1/10 정식 출시 예정
 
