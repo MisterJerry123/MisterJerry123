@@ -88,19 +88,14 @@
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HustleDooAlarm" target="_blank">두산베어스 팬들을 위한 알람 어플 "HustleDooAlarm" Android Client 개발 (2025.12.26 ~ ing)</a>
     
 &emsp;&emsp;&emsp;┖ 2025/12/27 비공개 테스트 시작, 2026/1/10 정식 출시 예정
-
-&emsp;&emsp;&emsp;┖ 아래 링크 구글 group 참여 하면 비공개 테스트 참여 가능
-
-&emsp;&emsp;&emsp;┖ 구글 그룹 링크 : https://groups.google.com/u/2/g/hustledooalarm-tester
-
-&emsp;&emsp;&emsp;┖ 비공개 테스트 링크 : https://play.google.com/apps/testing/com.misterjerry.hustledooalram
-
-
-
-<!--    
-&emsp;&emsp;&emsp;┖ (아직 구단에 저작권 문의는 안했는데 일단 진행)
--->
 </p>
+<p>
+    &emsp;&emsp;- <a href="https://github.com/MisterJerry123/RunningTracker" target="_blank">러닝 애호가들을 위한 러닝 보조 어플 "RunningTracker" Android Client 개발 (2026.01.05 ~ ing)</a>
+    
+&emsp;&emsp;&emsp;┖ 2026/01/06 비공개 테스터 12명 모집 작업중, 2026/1/21 정식 출시 예정
+</p>
+
+
   
 <!-- <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
