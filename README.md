@@ -92,7 +92,7 @@
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/RunningTracker" target="_blank">러닝 애호가들을 위한 러닝 보조 어플 "RunningTracker" Android Client 개발 (2026.01.05 ~ ing)</a>
     
-&emsp;&emsp;&emsp;┖ 2026/01/06 비공개 테스터 12명 모집 작업중, 2026/1/21 정식 출시 예정
+&emsp;&emsp;&emsp;┖ 2026/01/06 비공개 테스트 시작, 2026/1/20 정식 출시 예정
 </p>
 
 
