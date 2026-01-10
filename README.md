@@ -87,7 +87,10 @@
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/HustleDooAlarm" target="_blank">두산베어스 팬들을 위한 알람 어플 "HustleDooAlarm" Android Client 개발 (2025.12.26 ~ ing)</a>
     
-&emsp;&emsp;&emsp;┖ 2025/12/27 비공개 테스트 시작, 2026/1/10 정식 출시 예정
+    
+<img width="2101" height="1203" alt="image" src="https://github.com/user-attachments/assets/39f7c15c-3aa6-4ad3-84bd-15a683296cef" />
+
+<!-- &emsp;&emsp;&emsp;┖ 2025/12/27 비공개 테스트 시작, 2026/1/10 정식 출시 예정-->
 </p>
 <p>
     &emsp;&emsp;- <a href="https://github.com/MisterJerry123/etf_finder" target="_blank">주식 ETF 조건 검색기 "ETF Finder" Android Client 개발 (2025.12.30 ~ ing)</a>
