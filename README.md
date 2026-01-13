@@ -99,69 +99,20 @@
 &emsp;&emsp;&emsp;┖ 2026/01/06 비공개 테스트 시작, 2026/1/20 정식 출시 예정
 </p> -->
 
-<h3 align="center">💻 Projects and Awards 💻</h3>
+### 💻 Projects and Awards
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="25%">Period</th>
-      <th width="50%">Project Name & Link</th>
-      <th width="25%">Awards & Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">2026.01 - <b>Ing</b></td>
-      <td><a href="https://github.com/MisterJerry123/RunningTracker"><b>Running Tracker</b></a><br>러닝 보조 어플리케이션</td>
-      <td>🚀 01.20 정식 출시 예정</td>
-    </tr>
-    <tr>
-      <td align="center">2025.12 - <b>Ing</b></td>
-      <td><a href="https://github.com/MisterJerry123/etf_finder"><b>ETF Finder</b></a><br>주식 ETF 조건 검색기</td>
-      <td>🛠️ 개발 중</td>
-    </tr>
-    <tr>
-      <td align="center">2025.12 - <b>Ing</b></td>
-      <td><a href="https://github.com/MisterJerry123/HustleDooAlarm"><b>HustleDooAlarm</b></a><br>두산베어스 팬들을 위한 알람 앱</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram"><img src="https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">2025.12 - <b>Ing</b></td>
-      <td><a href="https://github.com/MisterJerry123/HealthMe-Android-Compose"><b>HealthMe (Compose)</b></a><br>Jetpack Compose UI 리팩토링</td>
-      <td>🎨 UI Study</td>
-    </tr>
-    <tr>
-      <td align="center">2025.11 - 2025.12</td>
-      <td><a href="https://github.com/MisterJerry123/sori-android"><b>소리비서 : Sori</b></a><br>청각 장애인을 위한 환경 소리 비서</td>
-      <td>🏆 <b>2025 새싹 해커톤 본선</b><br>(본선 7위 진출)</td>
-    </tr>
-    <tr>
-      <td align="center">2025.09 - 2025.11</td>
-      <td><a href="https://github.com/MisterJerry123/MySimpleMemoApp"><b>Simple Memo App</b></a><br>안드로이드 기초 역량 총망라 메모 앱</td>
-      <td><a href="https://play.google.com/store/apps/details?id=com.misterjerry.simplememo"><img src="https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white"/></a></td>
-    </tr>
-    <tr>
-      <td align="center">2024.12 - 2024.12</td>
-      <td><a href="https://github.com/MisterJerry123/noteBuddy"><b>노트버디 (NoteBuddy)</b></a><br>AI 기반 학습 파트너</td>
-      <td>🥈 <b>제 11회 SW·AI 해커톤 은상</b></td>
-    </tr>
-    <tr>
-      <td align="center">2024.02 - 2024.12</td>
-      <td><a href="https://github.com/MisterJerry123/withSejong"><b>세종끼리</b></a><br>교내 중고책 거래 플랫폼</td>
-      <td>🥉 <b>학술제 구현트랙 장려상</b></td>
-    </tr>
-    <tr>
-      <td align="center">2024.03 - 2024.06</td>
-      <td><a href="https://github.com/MisterJerry123/ReadingLips"><b>Reading Lips</b></a><br>LipReading 자막 생성기</td>
-      <td>♿ Accessibility Project</td>
-    </tr>
-    <tr>
-      <td align="center">2023.09 - 2024.02</td>
-      <td><a href="https://github.com/MisterJerry123/HealthMeFrontend"><b>HealthMe</b></a><br>초보자를 위한 헬스 도우미</td>
-      <td>💪 MVP Development</td>
-    </tr>
-  </tbody>
-</table>
+| 📅 Period | 🚀 Project | 🏆 Awards & Status |
+| :--- | :--- | :--- |
+| 2026.01 - **Ing** | [**Running Tracker**](https://github.com/MisterJerry123/RunningTracker)<br>러닝 애호가 보조 어플 | 🚀 **01.20 정식 출시 예정** |
+| 2025.12 - **Ing** | [**ETF Finder**](https://github.com/MisterJerry123/etf_finder)<br>주식 ETF 조건 검색기 | 🛠️ Development |
+| 2025.12 - **Ing** | [**HustleDooAlarm**](https://github.com/MisterJerry123/HustleDooAlarm)<br>두산베어스 팬 전용 알람 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram) |
+| 2025.12 - **Ing** | [**HealthMe (Compose)**](https://github.com/MisterJerry123/HealthMe-Android-Compose)<br>Jetpack Compose UI 리팩토링 | 🎨 UI Study |
+| 2025.11 - 2025.12 | [**소리비서 : Sori**](https://github.com/MisterJerry123/sori-android)<br>청각 장애인 실시간 소리 비서 | ✨ **2025 새싹 해커톤 본선 (7위)** |
+| 2025.09 - 2025.11 | [**Simple Memo App**](https://github.com/MisterJerry123/MySimpleMemoApp)<br>안드로이드 역량 총망라 메모 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.simplememo) |
+| 2024.12 - 2024.12 | [**노트버디 (NoteBuddy)**](https://github.com/MisterJerry123/noteBuddy)<br>AI 기반 학습 파트너 | 🥈 **제 11회 SW·AI 해커톤 은상** |
+| 2024.02 - 2024.12 | [**세종끼리**](https://github.com/MisterJerry123/withSejong)<br>세종대 중고책 거래 플랫폼 | 🥉 **학술제 구현트랙 장려상** |
+| 2024.03 - 2024.06 | [**Reading Lips**](https://github.com/MisterJerry123/ReadingLips)<br>LipReading 자막 생성기 | ♿ Accessibility Project |
+| 2023.09 - 2024.02 | [**HealthMe**](https://github.com/MisterJerry123/HealthMeFrontend)<br>초보자를 위한 헬스 도우미 | 💪 MVP Development |
   
 <!-- <p align="center">
 Project들 하이퍼링크 및 각 Project readme 작업중!
