@@ -107,7 +107,7 @@
 | :---: | :---: | :---: |
 | 2026.01 - **Ing** | [**Running Tracker**](https://github.com/MisterJerry123/RunningTracker)<br>러닝 애호가 보조 어플 | 🚀 **01.20 정식 출시 예정** |
 | 2025.12 - **Ing** | [**ETF Finder**](https://github.com/MisterJerry123/etf_finder)<br>주식 ETF 조건 검색기 | 🛠️ Development |
-| 2025.12 - **Ing** | [**HustleDooAlarm**](https://github.com/MisterJerry123/HustleDooAlarm)<br>두산베어스 팬 전용 알람 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram) |
+| 2025.12 - 2026.01 | [**HustleDooAlarm**](https://github.com/MisterJerry123/HustleDooAlarm)<br>두산베어스 팬 전용 알람 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram) |
 | 2025.12 - **Ing** | [**HealthMe (Compose)**](https://github.com/MisterJerry123/HealthMe-Android-Compose)<br>Jetpack Compose UI 리팩토링 | 🚀 개발 진행 중 |
 | 2025.11 - 2025.12 | [**소리비서 : Sori**](https://github.com/MisterJerry123/sori-android)<br>청각 장애인 실시간 소리 비서 | ✨ **2025 새싹 해커톤 예선 (7위)** |
 | 2025.09 - 2025.11 | [**Simple Memo App**](https://github.com/MisterJerry123/MySimpleMemoApp)<br>안드로이드 역량 총망라 메모 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.simplememo) |
