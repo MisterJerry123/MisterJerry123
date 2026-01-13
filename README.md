@@ -108,13 +108,13 @@
 | 2026.01 - **Ing** | [**Running Tracker**](https://github.com/MisterJerry123/RunningTracker)<br>러닝 애호가 보조 어플 | 🚀 **01.20 정식 출시 예정** |
 | 2025.12 - **Ing** | [**ETF Finder**](https://github.com/MisterJerry123/etf_finder)<br>주식 ETF 조건 검색기 | 🛠️ Development |
 | 2025.12 - **Ing** | [**HustleDooAlarm**](https://github.com/MisterJerry123/HustleDooAlarm)<br>두산베어스 팬 전용 알람 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram) |
-| 2025.12 - **Ing** | [**HealthMe (Compose)**](https://github.com/MisterJerry123/HealthMe-Android-Compose)<br>Jetpack Compose UI 리팩토링 | 🎨 UI Study |
-| 2025.11 - 2025.12 | [**소리비서 : Sori**](https://github.com/MisterJerry123/sori-android)<br>청각 장애인 실시간 소리 비서 | ✨ **2025 새싹 해커톤 본선 (7위)** |
+| 2025.12 - **Ing** | [**HealthMe (Compose)**](https://github.com/MisterJerry123/HealthMe-Android-Compose)<br>Jetpack Compose UI 리팩토링 | 🚀 개발 진행 중 |
+| 2025.11 - 2025.12 | [**소리비서 : Sori**](https://github.com/MisterJerry123/sori-android)<br>청각 장애인 실시간 소리 비서 | ✨ **2025 새싹 해커톤 예선 (7위)** |
 | 2025.09 - 2025.11 | [**Simple Memo App**](https://github.com/MisterJerry123/MySimpleMemoApp)<br>안드로이드 역량 총망라 메모 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.simplememo) |
 | 2024.12 - 2024.12 | [**노트버디 (NoteBuddy)**](https://github.com/MisterJerry123/noteBuddy)<br>AI 기반 학습 파트너 | 🥈 **제 11회 SW·AI 해커톤 은상** |
 | 2024.02 - 2024.12 | [**세종끼리**](https://github.com/MisterJerry123/withSejong)<br>세종대 중고책 거래 플랫폼 | 🥉 **학술제 구현트랙 장려상** |
-| 2024.03 - 2024.06 | [**Reading Lips**](https://github.com/MisterJerry123/ReadingLips)<br>LipReading 자막 생성기 | ♿ Accessibility Project |
-| 2023.09 - 2024.02 | [**HealthMe**](https://github.com/MisterJerry123/HealthMeFrontend)<br>초보자를 위한 헬스 도우미 | 💪 MVP Development |
+| 2024.03 - 2024.06 | [**Reading Lips**](https://github.com/MisterJerry123/ReadingLips)<br>LipReading 자막 생성기 | ✅ MVP 구현 완료 |
+| 2023.09 - 2024.02 | [**HealthMe**](https://github.com/MisterJerry123/HealthMeFrontend)<br>초보자를 위한 헬스 도우미 | ✅ MVP 구현 완료 |
 
 </div>
   
