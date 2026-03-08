@@ -105,9 +105,9 @@
 
 | 📅 Period | 🚀 Project | 🏆 Awards & Status |
 | :---: | :---: | :---: |
-| 2026.03 (E) -  | **HustleDooAlarm (ios 버전)**<br>두산베어스 팬 전용 알람 앱 | ⏳ 개발 예정 (2026.03) |
-| 2026.01.13 - **Ing** | [**심쿵가**](https://github.com/Team-HKJJ/Heart-break-price-android)<br>쇼핑몰 가격 변동 알림 어플 | 🛠️ 개발 진행 중 |
-| 2026.01.05 - **Ing** | [**Running Tracker**](https://github.com/MisterJerry123/RunningTracker)<br>러닝 애호가 보조 어플 | 🚀 **01.20 정식 출시 예정** |
+| 2027.03 (E) -  | **HustleDooAlarm (ios 버전)**<br>두산베어스 팬 전용 알람 앱 | ⏳ 개발 예정 (2027.03) |
+| 2026.01.13 - **Ing** | [**심쿵가**](https://github.com/Team-HKJJ/Heart-break-price-android)<br>쇼핑몰 가격 변동 알림 어플 | ✅ MVP 구현 완료 |
+| 2026.01.05 - **Ing** | [**Running Tracker**](https://github.com/MisterJerry123/RunningTracker)<br>러닝 애호가 보조 어플 | 🚀google playstore 심사 지연중 |
 | 2025.12.30 - **Ing** | [**ETF Finder**](https://github.com/MisterJerry123/etf_finder)<br>주식 ETF 조건 검색기 | 🛠️ 개발 진행 중 |
 | 2025.12.26 - 2026.01.13 | [**HustleDooAlarm**](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram)<br>두산베어스 팬 전용 알람 앱 | [![Google Play](https://img.shields.io/badge/Google%20Play-Released-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.misterjerry.hustledooalram) |
 | 2025.12 - **Ing** | [**HealthMe (Compose)**](https://github.com/MisterJerry123/HealthMe-Android-Compose)<br>Jetpack Compose UI 리팩토링 | 🛠️ 개발 진행 중 |
