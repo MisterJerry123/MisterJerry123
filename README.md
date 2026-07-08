@@ -106,7 +106,7 @@
 &emsp;&emsp;&emsp;┖ 2026/01/06 비공개 테스트 시작, 2026/1/20 정식 출시 예정
 </p> -->
 
-<h3 align="center">💻 Projects and Awards 💻</h3>
+<h3 align="center">💻 Projects & Awards 💻</h3>
 
 <div align="center">
 
